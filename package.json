@@ -1,0 +1,15 @@
+{
+  "name": "responsible_layout",
+  "version": "1.0.0",
+  "description": "An example of a simple exemple of a responsive layout",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run open",
+    "open": "concurrently \"http-server -p 8181\" \"open http://localhost:8181/\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SostenisVinicius/Resposible-Layou-peak-one"
+  },
+  "homepage": "https://github.com/SostenisVinicius/Resposible-Layou-peak-one#readme"
+}
